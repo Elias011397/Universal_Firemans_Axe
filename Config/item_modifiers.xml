@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configs>
+
+	<!-- Fireman's Axe -->
+	<set xpath="/item_modifiers/item_modifier[@name='modMeleeFiremansAxeMod']/@installable_tags">melee,miningTool,axe,tool,motorTool</set>
+	<set xpath="/item_modifiers/item_modifier[@name='modMeleeFiremansAxeMod']/@modifier_tags">modMeleeFiremansAxeMod</set>
+	<set xpath="/item_modifiers/item_modifier[@name='modMeleeFiremansAxeMod']/@blocked_tags">noMods</set>
+
+</configs>
